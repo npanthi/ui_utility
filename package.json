@@ -1,0 +1,19 @@
+{
+  "name": "ui_utility",
+  "version": "1.0.0",
+  "description": "small utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npanthi/ui_utility.git"
+  },
+  "author": "Nisan Panthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npanthi/ui_utility/issues"
+  },
+  "homepage": "https://github.com/npanthi/ui_utility#readme"
+}

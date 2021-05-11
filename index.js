@@ -1,0 +1,1 @@
+modules.exports = isValidResponse = (value)=> {console.log("testing package",value)};
