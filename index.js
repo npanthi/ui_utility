@@ -1,1 +1,9 @@
-modules.exports = isValidResponse = (value)=> {console.log("testing package",value)};
+
+
+function isValidResponse(value){
+    console.log("Hey its working");
+    return (value !== '' && value !== 'null' && value !== undefined && value !== null)
+}
+module.exports = {
+    isValidResponse:isValidResponse
+}
